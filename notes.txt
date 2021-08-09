@@ -3,3 +3,4 @@ Comandos importantes:
 Para iniciar el browser sync, hay que meterse en la carpeta "site" y escribir en el terminal:
 
     browser-sync start --server --directory --files "*"
+    browser-sync start --server --directory --files "**/*"
